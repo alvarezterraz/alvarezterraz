@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alvarezterraz
+- 👀 I’m interested in Quantum Computation, Statistics, Data Science, Scientific Computation
+- 🌱 I’m currently learning Quantum Ising chain simulation
+- 💞️ I’m looking to collaborate on anything related to Physics or Data Management
+- 📫 How to reach me palvarezterraz@gmail.com 
